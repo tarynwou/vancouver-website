@@ -1,0 +1,94 @@
+body {
+	font-family: Tahoma;
+
+	background: #EFFFFE
+
+	}
+
+
+
+.bighead {
+
+	font-size: 55
+
+	}
+
+
+
+
+h1 {
+
+	font-family: Impact;
+
+	font-size: 40
+
+	}
+
+
+
+
+.table1 {
+
+	font-family: Courier New;
+
+	font-size: 20;
+
+	}
+
+
+
+
+.table2head {
+
+	font-family: Impact;
+
+	font-size: 55;
+
+	}
+
+
+ 
+.table2words {
+
+	font-family: Verdana;
+
+	font-size: 30;
+
+	}
+
+
+
+
+a:link {
+
+	color: #000000;
+
+	}
+
+
+
+a:visited {
+
+	color: #E2C9FF;
+
+	}
+
+
+
+a:hover {
+
+	color: #FFE5FE;
+
+	}
+
+
+
+
+a:active {
+
+	color: #C9FFC9;
+
+	background: white;
+
+	}
+

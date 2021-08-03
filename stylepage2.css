@@ -1,0 +1,98 @@
+body {
+
+	font-family: Tahoma;
+
+	font-size: 15;
+
+	background: #F4EFFF;
+
+	}
+
+
+
+
+h1 {
+
+	font-family: Impact;
+
+	font-size: 40;
+
+	}
+
+
+
+h2 {
+
+	font-family: Impact;
+
+	font-size: 30;
+
+	}
+
+
+
+.firstp {
+
+	font-family: Arial;
+
+	font-size: 20;
+	
+}
+
+
+
+
+table {
+
+	font-family: Courier;
+
+	font-size: 20;
+
+	}
+
+
+
+
+.linkhead {
+
+	font-family: Lucida Console;
+
+	font-size: 30;
+
+	}
+
+
+
+a:link {
+
+	color: #000000;
+
+	}
+
+
+
+
+a:visited {
+
+	color: #FFBE96;
+
+	}
+
+
+
+a:hover {
+
+	color: #FFA4F0;
+
+	}
+
+
+
+
+a:active {
+
+	color: #A8FFA4;
+
+	background: white;
+
+	}

@@ -1,0 +1,76 @@
+body {
+
+	font-family: Tahoma;
+
+	font-size: 15;
+
+	background: #EBFFEA
+
+	}
+
+
+
+
+h1 {
+
+	font-family: Impact;
+
+	font-size: 40
+
+	}
+
+
+
+.title {
+
+	font-family: Impact;
+
+	font-size: 40
+
+	}
+
+
+
+.two {
+
+	font-family: Courier New;
+
+	font-size: 15
+
+	}
+
+
+
+a:link {
+
+	color: #000000;
+
+	}
+
+
+
+a:visited {
+
+	color: #80FFF3;
+
+	}
+
+
+
+a:hover {
+
+	color: #FFE5FE;
+
+	}
+
+
+
+
+a:active {
+
+	color: #FFBE96;
+
+	background: white;
+
+	}
+
